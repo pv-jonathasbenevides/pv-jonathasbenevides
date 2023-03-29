@@ -6,7 +6,7 @@
 
 ### Olá! Eu sou o Jonathas Benevides👋
   
- Analista DevOps Jr adquirindo experiencia com as tecnologias Docker, Kubernetes, Build e Deploy, AWS, Jenkins e GitLab/GitHub. Possuo certificações em Segurança da Informação (ISO/IEC 27005) v2 e Cybersecurity Framework Foundation (NIST) e atualmente estou cursando pós-graduação com a especialização em DevOps.
+ Analista DevOps Jr adquirindo experiencia com as tecnologias Docker, Kubernetes, Build e Deploy, AWS, Jenkins, GitLab/GitHub e Datadog. Possuo certificações em Segurança da Informação (ISO/IEC 27005) v2 e Cybersecurity Framework Foundation (NIST) e atualmente estou cursando pós-graduação com a especialização em DevOps.
 
 Responsável pela implementação de processos DevOps em diversos projetos da empresa, utilizando tecnologias como Docker, Kubernetes e Jenkins.
 Trabalho junto a equipe na automação do Build e Deploy de aplicações para ambientes de desenvolvimento, hml/stg e produção.
@@ -14,6 +14,7 @@ Colaboração no gerenciamento de infraestrutura em nuvem AWS junto a Soprar, ga
 atividades com GitLab/GitHub na implementação de fluxos de trabalho de integração e entrega contínua.
   
 <div style="display: inline_block">
+  <img align="center" alt="Certificado" src="https://img.shields.io/badge/license-ITcerts-green" />
   <img align="center" alt="K8s" src="https://img.shields.io/badge/-Kubernetes-lightgrey" />
   <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="Azure" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
@@ -21,19 +22,20 @@ atividades com GitLab/GitHub na implementação de fluxos de trabalho de integra
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img align="center" alt="Rancher" src="https://img.shields.io/badge/-Rancher-blue" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  
+  
 </div><br/>
 
-https://www.credential.net/profile/jonathasdesouzabenevides327141/wallet
+(https://www.credential.net/profile/jonathasdesouzabenevides327141/wallet)  
+  
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=pv-jonathasbenevides&show_icons=true&theme=dracula&count_private=true)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-jonathasbenevides&layout=compact)](https://github.com/pv-jonathasbenevides/github-readme-stats)
-
-
 
 ### Documentações DevOs:
   
-*[Repositorio de documentações técnicas, implantações dos projetos](https://github.com/conexasaude/pv-documentar-devops/wiki)
+* [Repositorio de documentações técnicas, implantações dos projetos](https://github.com/conexasaude/pv-documentar-devops/wiki)
   
 | [<img src="https://github.com/conexasaude/pv-documentar-devops/blob/master/img/john.jpg" width=115><br><sub>Jonathas Benevides</sub>](https://www.linkedin.com/in/jonathas-benevides-124757148/) | 
 | :---: | 
