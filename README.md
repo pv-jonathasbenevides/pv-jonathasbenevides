@@ -12,17 +12,7 @@ Responsável pela implementação de processos DevOps em diversos projetos da em
 Trabalho junto a equipe na automação do Build e Deploy de aplicações para ambientes de desenvolvimento, hml/stg e produção.
 Colaboração no gerenciamento de infraestrutura em nuvem AWS junto a Soprar, garantindo a disponibilidade e escalabilidade dos serviços da plataforma.
 atividades com GitLab/GitHub na implementação de fluxos de trabalho de integração e entrega contínua.
-
-Conhecimento em tecnologias DevOps, incluindo Docker, Kubernetes, Build e Deploy, AWS, Jenkins e GitLab/GitHub.
-Experiência em automação de processos de desenvolvimento e operações.
-Certificações em Segurança da Informação e Cybersecurity Framework Foundation. https://www.credential.net/profile/jonathasdesouzabenevides327141/wallet
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=pv-jonathasbenevides&show_icons=true&theme=dracula&count_private=true)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-## Tecnologias que eu uso no meu dia.
-
 <div style="display: inline_block">
   <img align="center" alt="K8s" src="https://img.shields.io/badge/-Kubernetes-lightgrey" />
   <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -32,6 +22,14 @@ Certificações em Segurança da Informação e Cybersecurity Framework Foundati
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img align="center" alt="Rancher" src="https://img.shields.io/badge/-Rancher-blue" />
 </div><br/>
+
+https://www.credential.net/profile/jonathasdesouzabenevides327141/wallet
+
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=pv-jonathasbenevides&show_icons=true&theme=dracula&count_private=true)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-jonathasbenevides&layout=compact)](https://github.com/pv-jonathasbenevides/github-readme-stats)
+
+
 
 ### Documentações DevOs:
   
