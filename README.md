@@ -18,6 +18,8 @@ Experiência em automação de processos de desenvolvimento e operações.
 Certificações em Segurança da Informação e Cybersecurity Framework Foundation. https://www.credential.net/profile/jonathasdesouzabenevides327141/wallet
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=pv-jonathasbenevides&show_icons=true&theme=dracula&count_private=true)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia.
 
