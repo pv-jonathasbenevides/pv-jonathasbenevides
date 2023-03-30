@@ -6,7 +6,7 @@
 
 ### Olá! Eu sou o Jonathas Benevides👋
   
- Analista DevOps Jr adquirindo experiencia com as tecnologias Docker, Kubernetes, Build e Deploy, AWS, Jenkins, GitLab/GitHub e Datadog. Possuo certificações em Segurança da Informação (ISO/IEC 27005) v2 e Cybersecurity Framework Foundation (NIST) e atualmente estou cursando pós-graduação com a especialização em DevOps. [``ITcerts``](https://www.credential.net/profile/jonathasdesouzabenevides327141/wallet) 
+ Analista DevOps Jr adquirindo experiencia com as tecnologias Docker, Kubernetes, Build e Deploy, AWS, Jenkins, GitLab/GitHub e Datadog. Possuo certificações em Segurança da Informação (ISO/IEC 27005) v2 e Cybersecurity Framework Foundation (NIST) [``ITcerts``](https://www.credential.net/profile/jonathasdesouzabenevides327141/wallet)  e atualmente estou cursando pós-graduação com a especialização em DevOps. 
 
 Responsável pela implementação de processos DevOps em diversos projetos da empresa, utilizando tecnologias como Docker, Kubernetes e Jenkins.
 Trabalho junto a equipe na automação do Build e Deploy de aplicações para ambientes de desenvolvimento, hml/stg e produção.
