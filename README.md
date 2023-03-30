@@ -25,15 +25,12 @@ atividades com GitLab/GitHub na implementação de fluxos de trabalho de integra
   <img align="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   
 </div><br/>
- 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=pv-jonathasbenevides&show_icons=true&theme=dracula&count_private=true)
-  
+   
 ### Documentações DevOs:
   
 * [Repositorio de documentações técnicas, implantações dos projetos](https://github.com/conexasaude/pv-documentar-devops/wiki)
   
-| [<img src="https://github.com/conexasaude/pv-documentar-devops/blob/master/img/john.jpg" width=115><br><sub>Jonathas Benevides</sub>](https://www.linkedin.com/in/jonathas-benevides-124757148/) | 
-| :---: | 
+
 
   
   
