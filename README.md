@@ -26,7 +26,7 @@ atividades com GitLab/GitHub na implementação de fluxos de trabalho de integra
   
 </div><br/>
    
-### Documentações DevOs:
+### Documentações DevOps:
   
 * [Repositorio de documentações técnicas, implantações dos projetos](https://github.com/conexasaude/pv-documentar-devops/wiki)
   
