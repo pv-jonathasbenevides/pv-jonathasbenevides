@@ -8,7 +8,7 @@
   
  Analista DevOps Jr adquirindo experiencia com as tecnologias Docker, Kubernetes, Build e Deploy, AWS, Jenkins, SonarCloud, GitLab/GitHub e Datadog. Possuo certificações em Segurança da Informação (ISO/IEC 27005) v2 e Cybersecurity Framework Foundation (NIST) [``ITcerts``](https://www.credential.net/profile/jonathasdesouzabenevides327141/wallet)  e atualmente estou cursando pós-graduação com a especialização em DevOps. 
 
-Responsável pela implementação de processos DevOps em diversos projetos da empresa, utilizando tecnologias como Docker, Kubernetes e Jenkins.
+Responsável pela implementação de processos DevOps em diversos projetos da empresa, utilizando tecnologias como Docker, Kubernetes e aws.
 Trabalho junto a equipe na automação do Build e Deploy de aplicações para ambientes de desenvolvimento, hml/stg e produção.
 Colaboração no gerenciamento de infraestrutura em nuvem AWS junto a Soprar, garantindo a disponibilidade e escalabilidade dos serviços da plataforma.
 atividades com GitLab/GitHub na implementação de fluxos de trabalho de integração e entrega contínua.
